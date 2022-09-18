@@ -1,2 +1,2 @@
-# web-browser-uisng-python
-In this I create python project using python libraries like PyQt5 and others.
+# web-browser
+In this i create python project using python libraries like PyQt5 and others.
